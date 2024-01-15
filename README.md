@@ -4,6 +4,11 @@
 
 Head to https://3d-model-only.netlify.app for live demo
 
+* Pro Tip: To make the dev build use below command and upload only build folder wherever you want.
+  ```
+  yarn build
+  ```
+
 # Project Overview
 # Why This Project?
   Building a website with 3D models can be challenging for many developers. The primary aim of this project is to provide a simple and easy-to-use template for showcasing 3D models. If you know how to build a React app, you're already halfway there!
@@ -43,3 +48,4 @@ As you embark on your journey with this project, feel free to customize, experim
 Thank you for choosing the Awesome 3D Model Showcase website. We're excited to see the incredible 3D experiences you create and share with the world!
 
 Happy coding! 🚀
+
