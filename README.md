@@ -1,3 +1,5 @@
+# NOTE:- It might take few minutes to completely load the 3D-model, I am Still working on that website, also just to test the live models ability and compatability, i made it live.
+
 # Awesome 3D Model Showcase Website
 
   Welcome to the Awesome 3D Model Showcase website! 🚀 This project is designed to simplify the process of implementing 3D models on the web using cutting-edge technologies such as Vite, Framer Motion, and Three.js
